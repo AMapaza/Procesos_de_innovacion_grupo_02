@@ -1,6 +1,6 @@
 # Equipo 02 - Procesos de innovación en ingeniería
 
-**Carrera:** [Inserta tu carrera aquí]
+**Carrera:** Ingeniería Ambiental | Ingeniería Industrial | Ingeniería Informática
 **Universidad:** Universidad Peruana Cayetano Heredia
 
 ---
@@ -34,13 +34,11 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 | 👤 | Jordy I. Pedrozo Gutiérrez | Investigador | Recopilar Información, validar ideas |
 | 👤 | Ivette Kiara Sulca Lopez | Diseñadora | Diseño de prototipos, creatividad aplicada |
 | 👤 | Damaris S. Rua Mariño | Encargada de Documentación | Comunicación científica, redacción teórica |
-| 👤 | Pascual F. Rojas Quihui | Programadora | Programación, Desarrollo web, Automatización |
-| 👤 | Astrid M. Apaza Farfan | [Agregar Rol] | [Agregar Intereses] |
+| 👤 | Pascual F. Rojas Quihui |  | |
+| 👤 | Astrid M. Apaza Farfan |Programadora | Programación, Desarrollo web, Automatización |
 
 ---
 
 ## 📌 Resumen Final
 
 Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.
-
-
