@@ -35,7 +35,7 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 | 👤 | Ivette Kiara Sulca Lopez | Diseñadora | Diseño de prototipos, creatividad aplicada |
 | 👤 | Damaris S. Rua Mariño | Encargada de Documentación | Comunicación científica, redacción teórica |
 | 👤 | Pascual F. Rojas Quihui | Programadora | Programación, Desarrollo web, Automatización |
-| 👤 | Astrid M. Apaza Farfan | [Agregar Rol] | [Agregar Intereses] |
+| 👤 | Astrid M. Apaza Farfan | Programadora | Programación, Desarrollo web, Automatización |
 
 ---
 
