@@ -1,6 +1,6 @@
 Equipo 02  - Procesos de innovación en ingeniería
-titulo del equipo:
-nombre del curso:Procesos de innovación en ingeniería
+Título del equipo:
+Nombre del curso:Procesos de innovación en ingeniería
 carrera:
 descripción:
 integrantes:
