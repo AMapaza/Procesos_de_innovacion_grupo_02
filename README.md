@@ -31,10 +31,10 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 
 | Foto | Nombre | Rol | Intereses |
 | :--- | :--- | :--- | :--- |
-| 👤 | Jordy I. Pedrozo Gutiérrez | Investigador | Recopilar Información, validar ideas |
+| 👤 | Jordy I. Pedrozo Gutiérrez |  |  |
 | 👤 | Ivette Kiara Sulca Lopez | Diseñadora | Diseño de prototipos, creatividad aplicada |
 | 👤 | Damaris S. Rua Mariño | Encargada de Documentación | Comunicación científica, redacción teórica |
-| 👤 | Pascual F. Rojas Quihui |  | |
+| 👤 | Pascual F. Rojas Quihui | Investigador | Recopilar Información, validar ideas|
 | 👤 | Astrid M. Apaza Farfan |Programadora | Programación, Desarrollo web, Automatización |
 
 ---
