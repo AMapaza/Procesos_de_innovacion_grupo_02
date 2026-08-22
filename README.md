@@ -1,6 +1,6 @@
 # Equipo 02 - Procesos de innovación en ingeniería
 
-**Carrera:** Ingeniería Ambiental | Ingeniería Industrial | Ingeniería Informática
+**Carrera:** Ingeniría Ambiental | Ingeniería Industrial | Ingeniería Informática
 **Universidad:** Universidad Peruana Cayetano Heredia
 
 ---
